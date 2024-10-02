@@ -1,2 +1,9 @@
 # api-controle-compras
 Repositório da API do App Controle de Compras versão web
+Utiliza uma base de dados SQLite.
+
+Na versão atual existe apenas as funcionalidades de inserção e consulta dos dados
+
+## Essa API é consumida por uma interface web que está no repositório
+
+https://github.com/fabiogrp/gui-controle-compras
