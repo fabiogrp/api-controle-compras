@@ -7,3 +7,8 @@ Na versão atual existe apenas as funcionalidades de inserção e consulta dos d
 ## Essa API é consumida por uma interface web que está no repositório
 
 https://github.com/fabiogrp/gui-controle-compras
+
+## Pra executar a API é necessário ter o uvicorn instalado
+main-fastapi-compras:app
+A API vai subir na porta 8000
+
