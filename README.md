@@ -12,3 +12,6 @@ https://github.com/fabiogrp/gui-controle-compras
 main-fastapi-compras:app
 A API vai subir na porta 8000
 
+## Obs
+O peewee está como dependência porquê pretendia (ainda pretendo) utilizar esse ORM na aplicação, mas pode ser removido o import porquê atualmente não está sendo usado
+
